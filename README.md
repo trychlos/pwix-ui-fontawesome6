@@ -16,4 +16,4 @@ The embedded version provides:
 
 ---
 P. Wieser
-- Last updated on 2024, May. 24th
+- Last updated on 2024, Jun. 8th
