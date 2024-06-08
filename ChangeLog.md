@@ -12,7 +12,7 @@
 
     Release date: 2024- 6- 8
 
-    - Includes FontAwesome v6.5.2-web
+    - Initial release with FontAwesome v6.5.2-web
 
 ---
 P. Wieser
