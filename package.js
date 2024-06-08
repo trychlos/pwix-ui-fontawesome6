@@ -1,6 +1,6 @@
 Package.describe({
     name: 'pwix:ui-fontawesome6',
-    version: '1.0.0',
+    version: '1.0.1-rc',
     summary: 'Provides Font Awesome 6 to Meteor packages',
     git: 'https://github.com/trychlos/pwix:ui-fontawesome6',
     documentation: 'README.md'

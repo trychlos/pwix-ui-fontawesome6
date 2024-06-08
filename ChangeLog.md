@@ -2,11 +2,17 @@
 
 ## ChangeLog
 
+### 1.0.1-rc
+
+    Release date: 
+
+    - 
+
 ### 1.0.0
 
     Release date: 2024- 6- 8
 
-    - Includes v6.5.2
+    - Includes FontAwesome v6.5.2-web
 
 ---
 P. Wieser
